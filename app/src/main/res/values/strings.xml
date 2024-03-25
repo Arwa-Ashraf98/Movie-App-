@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="no_internet">No Internet</string>
+    <string name="network_is_unavailable">Network is UnAvailable</string>
+    <string name="network_is_lost">Network is Lost</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">image</string>
+    <string name="not_popular">not popular</string>
+    <string name="known">known</string>
+    <string name="popular">popular</string>
+    <string name="very_popular">very popular</string>
+    <string name="watches">watches :</string>
+</resources>
